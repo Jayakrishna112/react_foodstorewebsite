@@ -29,3 +29,8 @@ dist-ssr
 !.dev.vars.example
 .env*
 !.env.example
+
+# Locally installed agent skills
+.agents/
+.claude/
+skills-lock.json
